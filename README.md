@@ -47,6 +47,8 @@ That all folks !
 
 This extension is a Reverse Mask system to manage your UI and 3D Mask.
 
+The RENDERER EXTENSION IS REQUIRED
+
 Get the github HTTPS project url and load it in Unity Package Manager windows
 
 in Unity : Windows -> Package Manager -> + -> Add package from git url
