@@ -1,0 +1,20 @@
+{
+  "name": "com.archnet.extension.reversemask3d",
+  "version": "1.0.0",
+  "displayName": "Arch Net Extension Reverse Mask 3D",
+  "description": "Extension to create and manage a Reverse Mask for 3D gameobject",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Arch",
+    "ArchNet",
+    "Extension",
+    "Reverse",
+    "Mask",
+    "Custom"
+  ],
+  "author": {
+    "name": "Arch Net",
+    "email": "archnetmodule@gmail.com"
+  }
+}

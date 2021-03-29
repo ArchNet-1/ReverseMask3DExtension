@@ -1,0 +1,15 @@
+{
+    "name": "ArchNet.Editor.Extension.ReverseMask3D",
+    "references": [
+        "GUID:df9206d7d96624a4795c09b52b2a7bd7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
