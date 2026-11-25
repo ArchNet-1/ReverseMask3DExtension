@@ -1,20 +1,24 @@
 {
   "name": "com.archnet.extension.reversemask3d",
-  "version": "1.0.0",
-  "displayName": "Arch Net Extension Reverse Mask 3D",
-  "description": "Extension to create and manage a Reverse Mask for 3D gameobject",
-  "unity": "2020.1",
-  "unityRelease": "0b5",
+  "version": "2.0.0",
+  "displayName": "ArchNet - Reverse Mask 3D Extension",
+  "description": "Darkens the screen with an overlay that has holes over 3D objects; clicks inside a hole reach the object under it.",
+  "unity": "6000.0",
+  "documentationUrl": "https://archnet-plateform.fr/#ReverseMask3DExtension",
+  "changelogUrl": "https://github.com/ArchNet-1/ReverseMask3DExtension/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ArchNet-1/ReverseMask3DExtension/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.archnet.extension.canvas": "2.0.0",
+    "com.archnet.extension.renderer": "2.0.0"
+  },
   "keywords": [
-    "Arch",
-    "ArchNet",
-    "Extension",
-    "Reverse",
-    "Mask",
-    "Custom"
+    "archnet",
+    "extension",
+    "reversemask3d"
   ],
   "author": {
-    "name": "Arch Net",
-    "email": "archnetmodule@gmail.com"
+    "name": "ArchNet",
+    "email": "archnetmodule@gmail.com",
+    "url": "https://archnet-plateform.fr"
   }
 }

@@ -1,7 +1,9 @@
 {
-    "name": "ArchNet.Editor.Extension.ReverseMask3D",
+    "name": "ArchNet.Extension.ReverseMask3D",
+    "rootNamespace": "ArchNet.Extension",
     "references": [
-        "GUID:df9206d7d96624a4795c09b52b2a7bd7"
+        "ArchNet.Extension.Canvas",
+        "ArchNet.Extension.Renderer"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
