@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Reverse Mask 3D Extension",
   "description": "Darkens the screen with an overlay that has holes over 3D objects; clicks inside a hole reach the object under it.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#ReverseMask3DExtension",
   "changelogUrl": "https://github.com/ArchNet-1/ReverseMask3DExtension/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/ReverseMask3DExtension/blob/main/LICENSE.md",

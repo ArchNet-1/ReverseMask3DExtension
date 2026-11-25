@@ -23,4 +23,4 @@ Put **Reverse Mask 3D Controller** on the overlay and register the holes with `A
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).
